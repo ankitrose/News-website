@@ -1,0 +1,1 @@
+Created a news website to learn about api implementation in JavaScript.
